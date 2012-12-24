@@ -1,6 +1,7 @@
 Treebook::Application.routes.draw do
   devise_for :users
 
+  # Custom routes y'all
   devise_scope :user do 
     get 'register', to: 'devise/registrations#new', as: :register
     get 'login', to: 'devise/sessions#new', as: :login
