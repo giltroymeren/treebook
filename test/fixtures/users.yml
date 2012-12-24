@@ -1,4 +1,11 @@
 marie:
- first_name: "Marie"
- last_name: "Cruz"
- profile_name: "mcruz"
+  first_name: "Marie"
+  last_name: "Cruz"
+  profile_name: "mcruz"
+  email: "mcruz@gmail.com"
+
+juan:
+  first_name: "Juan"
+  last_name: "Smith" 
+  profile_name: "jsmith"
+  email: "jsmith@gmail.com"
